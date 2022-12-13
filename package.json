@@ -2,7 +2,13 @@
   "name": "react-calculator",
   "author": "KingGoku90",
   "description": "React Calculator App",
-  "keywords": ["React Calculator", "Web Development", "FrontEnd Developer", "Ryno Rossouw", "ryno.x10.mx"],
+  "keywords": [
+    "React Calculator",
+    "Web Development",
+    "FrontEnd Developer",
+    "Ryno Rossouw",
+    "ryno.x10.mx"
+  ],
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -37,5 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
